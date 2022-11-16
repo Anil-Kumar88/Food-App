@@ -25,32 +25,43 @@ padding-top: 10vh;
 .main-section >article>form{
     width: 30%;
     background-color: rgba(0, 0, 0, 0.609);
-    text-align: center;
+    /* text-align: center; */
     border-radius: 25px 10px;
     border: gray solid 4px;
 }
 .main-section >article>form>h1{
-  color: aliceblue;
+  color: rgb(213, 218, 222);
   font-size: 30px;
   margin-bottom: 20px;
   font-family:cursive;
+  text-align: center;
 }
 label{
     color: aliceblue;
+    margin-left: 10px;
 }
 #veg,#nonveg{
     margin: 10px 10px;
     width: 30px;
     height: 16px;
+    margin-left: 10px;
 }
+#textid{
+    margin-left: 10px;
+}
+textarea{
+    margin-left: 10px;
+}
+
 input{
     width: 94%;
     margin-bottom: 10px;
+    margin-left: 10px;
 }
 select{
     width: 94%;
-    margin-top: 10px;
     margin-bottom: 15px;
+    margin-left: 10px;
 }
 ::placeholder{
     border: gray solid 2px;
@@ -60,6 +71,8 @@ select{
 #mainsubmit{
     padding: 2px;
     margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
 }
 
 

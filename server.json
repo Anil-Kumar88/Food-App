@@ -1,0 +1,116 @@
+{
+  "VegItems": [
+    {
+      "item": "Masala Dosa",
+      "price": 65,
+      "image": "https://media.istockphoto.com/photos/masala-sin-picture-id481750586?b=1&k=20&m=481750586&s=170667a&w=0&h=-gea9W-a3_m2gW2VXYk2OgdpI_BLMhc832TqSEMw7ak="
+    },
+    {
+      "item": "Idli",
+      "price": 25,
+      "image": "https://media.istockphoto.com/photos/idly-sambar-or-idli-with-sambhar-and-green-red-chutney-popular-south-picture-id1024549286?b=1&k=20&m=1024549286&s=170667a&w=0&h=Fqq70VEXoIAFCLrWzb93xji11iaI9VXr75h2Ykzbx9k="
+    },
+    {
+      "item": "Puri-sagu",
+      "price": 70,
+      "image": "https://media.istockphoto.com/id/977292506/pt/foto/homemade-fried-puri-or-poori-or-indian-bread-selective-focus.jpg?b=1&s=170667a&w=0&k=20&c=bKk2Uu6cFso5n50NCkGP79vhzQf0QiCGjGfotSVRe38="
+    },
+    {
+      "item": "South Indian Meal",
+      "price": 70,
+      "image": "https://media.istockphoto.com/id/483405040/photo/south-indian-meals-on-banana-leaf.jpg?b=1&s=170667a&w=0&k=20&c=HV7Nb5OFuFnJ67kbJ6-mtIt5w7zGH-Eke5CJiT1O5iI="
+    },
+    {
+      "item": "North Indian Meal",
+      "price": 70,
+      "image": "https://media.istockphoto.com/id/1421270219/photo/dham-traditional-food-of-himachal-pradesh-himachali-kangri-dham-thali-includes-kaddu-ka.jpg?b=1&s=170667a&w=0&k=20&c=0JyimScnY67JAKRaoqaO4BUEtYLJYoHtAMHiepgY1_k="
+    },
+    {
+      "item": "Uppamma",
+      "price": 70,
+      "image": "https://media.istockphoto.com/id/1413566368/photo/indian-food-aloo-paratha-or-indian-potato-stuffed-flatbread-served-with-butter-pickle-and.jpg?b=1&s=170667a&w=0&k=20&c=T6DLip2mc63WcERx5ehYfFBal0QxfRFmH-gYBXxdwFU="
+    },
+    {
+      "item": "Roti Curry",
+      "price": 70,
+      "image": "https://media.istockphoto.com/id/1413566368/photo/indian-food-aloo-paratha-or-indian-potato-stuffed-flatbread-served-with-butter-pickle-and.jpg?b=1&s=170667a&w=0&k=20&c=T6DLip2mc63WcERx5ehYfFBal0QxfRFmH-gYBXxdwFU="
+    },
+    {
+      "item": "Kesari-Bath",
+      "price": 70,
+      "image": "https://media.istockphoto.com/id/481467646/photo/kesari-bath-indian-sweet-dish.jpg?b=1&s=170667a&w=0&k=20&c=ctT7F_0B8VzflxNDrN3c8QJza8xr1VKUM4iG1UIO3c0="
+    },
+    {
+      "item": "Palvo",
+      "price": 70,
+      "image": "https://media.istockphoto.com/id/481467646/photo/kesari-bath-indian-sweet-dish.jpg?b=1&s=170667a&w=0&k=20&c=ctT7F_0B8VzflxNDrN3c8QJza8xr1VKUM4iG1UIO3c0="
+    },
+    {
+      "item": "Vada",
+      "price": 70,
+      "image": "https://media.istockphoto.com/id/1205482272/photo/medu-wada-with-sambar-and-chutney-south-indian-breakfast-or-snack-dish-on-banana-leaf.jpg?s=612x612&w=0&k=20&c=e0f0_ik1YETKco-jJwbbh3vP_GrOD-oh2KucGSUbQOg="
+    }
+  ],
+  "Non-Veg-Items": [
+    {
+      "item": "Chicken Biriyani",
+      "price": 200,
+      "image": "https://media.istockphoto.com/id/497784792/photo/chicken-biryani.jpg?s=612x612&w=0&k=20&c=pZ-9qAR8FE61SnbpeQkhu97kuEh9O91JQIlpU9rjc5A="
+    },
+    {
+      "item": "Mutton Biriyani",
+      "price": 300,
+      "image": "https://media.istockphoto.com/id/980037112/photo/gosht-or-lamb-biryani-prepared-in-basmati-rice-served-with-yogurt-dip-in-terracotta-bowl.jpg?s=612x612&w=0&k=20&c=LY0r5y0tij9MHz2tg802UQGHk-VPUNUYj6x6qGm2bsU="
+    },
+    {
+      "item": "Grilled Chicken",
+      "price": 450,
+      "image": "https://media.istockphoto.com/id/155371993/photo/grilled-chicken.jpg?s=612x612&w=0&k=20&c=5NLVxcLPpWGJMNtYI-xAv6V36Ldky2MMUVgnpt9kEoo="
+    },
+    {
+      "item": "Chicken Masala",
+      "price": 180,
+      "image": "https://media.istockphoto.com/id/504819588/photo/indian-style-cottage-cheese-vegetarian-curry-dish.jpg?s=612x612&w=0&k=20&c=Cc4LmBf3RAAQY6h8q060sL-FB8mq4Lbj_SaJHOoxYZs="
+    },
+    {
+      "item": "Chicken Lolipop",
+      "price": 240,
+      "image": "https://media.istockphoto.com/id/504819588/photo/indian-style-cottage-cheese-vegetarian-curry-dish.jpg?s=612x612&w=0&k=20&c=Cc4LmBf3RAAQY6h8q060sL-FB8mq4Lbj_SaJHOoxYZs="
+    },
+    {
+      "item": "Tandoori Chicken",
+      "price": 220,
+      "image": "https://media.istockphoto.com/id/995903748/photo/smoked-and-spicy-tandoori-chicken-grilling-with-smoke.jpg?s=612x612&w=0&k=20&c=xq_apF2Osk5HYFOgBS9crRi1puLozxyGWFuCUV0mhYg="
+    },
+    {
+      "item": "Fish fry",
+      "price": 270,
+      "image": "https://media.istockphoto.com/id/488513858/photo/grilled-fish-with-fried-potatoes-and-salad-horizontal-top-view.jpg?s=612x612&w=0&k=20&c=jQGngWumsQrbV2zlmNtgeCLn7owJwQPg0teS-5apf2w="
+    },
+    {
+      "item": "Fish rava fry",
+      "price": 250,
+      "image": "https://media.istockphoto.com/id/499123153/photo/fried-seafood-platter.jpg?s=612x612&w=0&k=20&c=7dpFFwlOFDuYCaj_XYn2i8wTClrjsGrp9zDLhrSmplw="
+    },
+    {
+      "item": "Fish curry",
+      "price": 200,
+      "image": "https://media.istockphoto.com/id/1149816362/photo/kerala-fish-curry-with-pearl-spot-or-karimeen.jpg?s=612x612&w=0&k=20&c=pqTUwVt1mxRvf-B8MXqm9hoYpsjW3h2P4HQdOcH0aSk="
+    },
+    {
+      "item": "Mutton Chaps",
+      "price": 230,
+      "image": "https://media.istockphoto.com/id/1149816362/photo/kerala-fish-curry-with-pearl-spot-or-karimeen.jpg?s=612x612&w=0&k=20&c=pqTUwVt1mxRvf-B8MXqm9hoYpsjW3h2P4HQdOcH0aSk="
+    },
+    {
+      "item": "Mutton kabab",
+      "price": 190,
+      "image": "https://media.istockphoto.com/id/1149816362/photo/kerala-fish-curry-with-pearl-spot-or-karimeen.jpg?s=612x612&w=0&k=20&c=pqTUwVt1mxRvf-B8MXqm9hoYpsjW3h2P4HQdOcH0aSk="
+    },
+    {
+      "item": "Chicken Kabab",
+      "price": 150,
+      "image": "https://media.istockphoto.com/id/1150376652/photo/chicken-tikka-indian-food.jpg?s=612x612&w=0&k=20&c=lC-d6QLXD9egRifPxRrm2Px1W005gS1rfwIbF9wFjbQ="
+    }
+  ]
+}

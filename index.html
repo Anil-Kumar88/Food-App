@@ -5,8 +5,50 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="./index.css">
 </head>
 <body>
-    hi
+    <section class="main-section">
+        <article>
+            <form id="main-form">
+                <h1>FOOD ORDER</h1>
+                <label for="">Name :</label>
+                <input type="text" placeholder="enter name" id="name"><br>
+                <input type="radio" value="veg" name="veg" id="veg">
+                <label for="veg"> Veg</label>
+                <input type="radio" value="nonVeg" name="nonVeg" id="nonveg">
+                 <label for="nonveg"> Non-Veg</label> <br>
+                 <input list="ourFood">
+                <datalist name="Food Name" id="ourFood">
+                    
+                </datalist>
+                    <br>
+                <label for="">Address :</label>
+                <textarea name="" id="" cols="27" rows="5" >
+                    thanks for the address we will parcel the food to the given address.
+                </textarea>
+                <label for="">State :</label>
+                <select name="" id="">
+                    <!-- <option value="">State</option> -->
+                    <option value="">karnataka</option>
+                    <option value="">Kerala</option>
+                    <option value="">Tamil nadu</option>
+                    <option value="">Goa</option>
+                    <option value="">Gujurat</option>
+                </select>
+                <button id="mainsubmit">Submit</button>
+            </form>
+        </article>
+    </section>
+    <section>
+        <article>
+            <form>
+                
+            </form>
+        </article>
+    </section>
+
+
+    <script src="./index.js"></script>
 </body>
 </html>
